@@ -2,7 +2,7 @@
 const weatherForm = document.querySelector('.weatherForm')
 const cityInput = document.querySelector('.cityInput')
 const card = document.querySelector('.card')
-const apiKey = "c721786f9380f6137982f798f2b6f1b4"
+const apiKey = ""
 
 //button reactions
 weatherForm.addEventListener('submit', async event => {
